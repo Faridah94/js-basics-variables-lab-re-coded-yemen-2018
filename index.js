@@ -1,7 +1,7 @@
 // Code your solution in this file!
 let companyName = 'Scuber';
 
- let companyName = 'specialCompany';
+const companyName = 'specialCompany';
  
 let mostProfitableNeighborhood = 'Chelsea';
 
