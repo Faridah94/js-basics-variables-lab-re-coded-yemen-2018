@@ -4,4 +4,4 @@ let companyName = 'Scuber';
 let mostProfitableNeighborhood = 'Chelsea';
 
 
-mostProfitableNeighborhood
+let mostProfitableNeighborhood
