@@ -7,3 +7,6 @@ let mostProfitableNeighborhood = 'Chelsea';
 
 let companyCeo = 'Susan Smith';
 
+if (companyName == 'Scuber') {
+  errorMessage = 'Error';
+}
